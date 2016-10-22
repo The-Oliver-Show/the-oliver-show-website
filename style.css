@@ -24,3 +24,6 @@
     background-position: right top;
     background-attachment: fixed;
 }
+ p {
+    font-size: 200%;
+}
