@@ -1,4 +1,8 @@
-  p.dotted {
+  iframe {
+    text-align: center;
+}
+
+ p.dotted {
     border-style: dotted;
     background: #000000;
     opacity: 0.6;
