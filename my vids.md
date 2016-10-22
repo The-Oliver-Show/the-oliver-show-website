@@ -7,12 +7,9 @@ permalink: /my-vids/
  
   <body>
 
-   <iframe width="608" height="342" src="https://www.youtube.com/watch?v=ZgucIL2xCGw">
-   </iframe>
-   <iframe width="608" height="342" src="https://www.youtube.com/watch?v=Dh88pnK5Vhw">
-   </iframe>
-   <iframe width="608" height="342" src="https://www.youtube.com/watch?v=_1prGXBVg-4">
-   </iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZgucIL2xCGw" frameborder="0" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/_1prGXBVg-4" frameborder="0" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/Dh88pnK5Vhw" frameborder="0" allowfullscreen></iframe>
 
   </body>
   
