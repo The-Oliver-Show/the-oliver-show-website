@@ -3,7 +3,7 @@ layout: page
 permalink: /my-vids/
 ---
 
-<!DOCTYPE html>
+<html>
 <body>
 
 <iframe width="608" height="342" src="https://www.youtube.com/watch?v=ZgucIL2xCGw">
